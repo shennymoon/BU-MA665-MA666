@@ -25,3 +25,5 @@ William Li
 Zeynep Kahraman
 
 Kaitlyn Dorst
+
+Shen Ning
